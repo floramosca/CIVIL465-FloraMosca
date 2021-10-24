@@ -2,7 +2,7 @@
 %linear interpolation 
 %Content: MDOF analysis and linear interpolation of results
 %This code is developed based on the inputs of the Tolmezzo earthquake 
-%ground acceleration from Pr. Pierino Lestuzzi lecture CIVIL420 
+%ground acceleration from Pr. Pierino Lestuzzi course CIVIL420 
 %This code uses the simplification that the response of a MDOF can be
 %appoximated by taking into account only the first mode of vibration of the
 %system
