@@ -15,7 +15,8 @@ This code uses the simplification that the response of a MDOF can be
 appoximated by taking into account only the first mode of vibration of the
 system
 
-Author: Flora Mosca, based on Pr. Lestuzzi code
+Author: Flora Mosca
+Coauthor: Pierino Lestuzzi
 
 Created: 9/01/2021
 
